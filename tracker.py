@@ -1,14 +1,3 @@
-# print("Welcome to the Daily Expense Tracker!")
-
-# def menu():
-#     print("""
-# Menu:
-# 1. Add a new expense
-# 2. View all expenses
-# 3. Calculate total and average expense
-# 4. Clear all expenses
-# 5. Exit""")
-
 print("Este projeto foi feito com base no projeto de mesmo nome, mencionado na Seção 1, Capítulo 14 das lições de Python, no site Coddy.")
 print("Estarei traduzindo livremente a fim de reforçar o aprendizado exercitado na realização deste projeto!")
 
